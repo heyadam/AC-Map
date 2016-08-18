@@ -1,0 +1,3 @@
+To run the server locally open Terminal on your Mac and type in
+```python -m SimpleHTTPServer 8000 ``` ...
+The server should be running at http://localhost:8000 ... You can replace ```test.gpx``` with your own file exported from Strava.
